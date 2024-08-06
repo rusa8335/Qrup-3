@@ -1,6 +1,6 @@
 <?php
 
-echo "bu edit sehfesidir";
+echo "Salam";
 
 
 
